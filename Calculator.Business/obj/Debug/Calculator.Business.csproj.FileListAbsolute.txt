@@ -1,0 +1,13 @@
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Business.dll
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Business.pdb
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Model.dll
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\TextBasedDatabase.dll
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Model.pdb
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\TextBasedDatabase.pdb
+C:\WorkspaceGoldin\Server\Calculator.Business\obj\Debug\Calculator.Business.csprojAssemblyReference.cache
+C:\WorkspaceGoldin\Server\Calculator.Business\obj\Debug\Calculator.Business.csproj.CoreCompileInputs.cache
+C:\WorkspaceGoldin\Server\Calculator.Business\obj\Debug\Calculator.Business.csproj.CopyComplete
+C:\WorkspaceGoldin\Server\Calculator.Business\obj\Debug\Calculator.Business.dll
+C:\WorkspaceGoldin\Server\Calculator.Business\obj\Debug\Calculator.Business.pdb
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Security.dll
+C:\WorkspaceGoldin\Server\Calculator.Business\bin\Debug\Calculator.Security.pdb

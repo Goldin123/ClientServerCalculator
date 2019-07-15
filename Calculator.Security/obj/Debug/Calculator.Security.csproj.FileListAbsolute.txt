@@ -1,0 +1,5 @@
+C:\WorkspaceGoldin\Server\Calculator.Security\bin\Debug\Calculator.Security.dll
+C:\WorkspaceGoldin\Server\Calculator.Security\bin\Debug\Calculator.Security.pdb
+C:\WorkspaceGoldin\Server\Calculator.Security\obj\Debug\Calculator.Security.csproj.CoreCompileInputs.cache
+C:\WorkspaceGoldin\Server\Calculator.Security\obj\Debug\Calculator.Security.dll
+C:\WorkspaceGoldin\Server\Calculator.Security\obj\Debug\Calculator.Security.pdb

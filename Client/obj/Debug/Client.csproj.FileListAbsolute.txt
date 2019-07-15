@@ -1,0 +1,14 @@
+C:\Workspace Goldin\Server\Client\bin\Debug\Client.exe.config
+C:\Workspace Goldin\Server\Client\bin\Debug\Client.exe
+C:\Workspace Goldin\Server\Client\bin\Debug\Client.pdb
+C:\Workspace Goldin\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Workspace Goldin\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Workspace Goldin\Server\Client\obj\Debug\Client.exe
+C:\Workspace Goldin\Server\Client\obj\Debug\Client.pdb
+C:\WorkspaceGoldin\Server\Client\bin\Debug\Client.exe.config
+C:\WorkspaceGoldin\Server\Client\bin\Debug\Client.exe
+C:\WorkspaceGoldin\Server\Client\bin\Debug\Client.pdb
+C:\WorkspaceGoldin\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\WorkspaceGoldin\Server\Client\obj\Debug\Client.exe
+C:\WorkspaceGoldin\Server\Client\obj\Debug\Client.pdb
+C:\WorkspaceGoldin\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache

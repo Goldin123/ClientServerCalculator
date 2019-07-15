@@ -1,0 +1,11 @@
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\TextBasedDatabase.dll
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\TextBasedDatabase.pdb
+C:\WorkspaceGoldin\Server\TextBasedDatabase\obj\Debug\TextBasedDatabase.csprojAssemblyReference.cache
+C:\WorkspaceGoldin\Server\TextBasedDatabase\obj\Debug\TextBasedDatabase.csproj.CoreCompileInputs.cache
+C:\WorkspaceGoldin\Server\TextBasedDatabase\obj\Debug\TextBasedDatabase.dll
+C:\WorkspaceGoldin\Server\TextBasedDatabase\obj\Debug\TextBasedDatabase.pdb
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\Calculator.Model.dll
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\Calculator.Model.pdb
+C:\WorkspaceGoldin\Server\TextBasedDatabase\obj\Debug\TextBasedDatabase.csproj.CopyComplete
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\Calculator.Security.dll
+C:\WorkspaceGoldin\Server\TextBasedDatabase\bin\Debug\Calculator.Security.pdb

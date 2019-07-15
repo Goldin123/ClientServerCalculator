@@ -1,0 +1,33 @@
+C:\Workspace Goldin\Server\Calculator\bin\Debug\Calculator.exe.config
+C:\Workspace Goldin\Server\Calculator\bin\Debug\Calculator.exe
+C:\Workspace Goldin\Server\Calculator\bin\Debug\Calculator.pdb
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.Login.resources
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.MainMenu.resources
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.Register.resources
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.exe
+C:\Workspace Goldin\Server\Calculator\obj\Debug\Calculator.pdb
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.exe.config
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.exe
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.pdb
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.Login.resources
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.MainMenu.resources
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.Register.resources
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.exe
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.pdb
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Business.dll
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Model.dll
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Business.pdb
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Model.pdb
+C:\WorkspaceGoldin\Server\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\TextBasedDatabase.dll
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\TextBasedDatabase.pdb
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Security.dll
+C:\WorkspaceGoldin\Server\Calculator\bin\Debug\Calculator.Security.pdb
