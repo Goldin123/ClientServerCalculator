@@ -11,3 +11,4 @@ C:\WorkspaceGoldin\Server\Server\bin\Debug\Server.pdb
 C:\WorkspaceGoldin\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\WorkspaceGoldin\Server\Server\obj\Debug\Server.exe
 C:\WorkspaceGoldin\Server\Server\obj\Debug\Server.pdb
+C:\WorkspaceGoldin\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
