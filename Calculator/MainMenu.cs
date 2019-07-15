@@ -13,8 +13,8 @@ namespace Calculator
 {
     public partial class MainMenu : Form
     {
-        private readonly string ServerApplication = string.Format(@"{0}Server.exe", System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, System.AppDomain.CurrentDomain.RelativeSearchPath ?? "").Replace("Calculator", "Server"));
-        private readonly string ClientApplication = string.Format(@"{0}Client.exe", System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, System.AppDomain.CurrentDomain.RelativeSearchPath ?? "").Replace("Calculator", "Client"));
+        private readonly string ServerApplication = string.Format(@"{0}Server.exe", System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, System.AppDomain.CurrentDomain.RelativeSearchPath ?? "").Replace(@"\Calculator", @"\Server"));
+        private readonly string ClientApplication = string.Format(@"{0}Client.exe", System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, System.AppDomain.CurrentDomain.RelativeSearchPath ?? "").Replace(@"\Calculator", @"\Client"));
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
         /// </summary>
