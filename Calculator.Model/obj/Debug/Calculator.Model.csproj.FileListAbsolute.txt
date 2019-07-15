@@ -3,3 +3,4 @@ C:\WorkspaceGoldin\Server\Calculator.Model\bin\Debug\Calculator.Model.pdb
 C:\WorkspaceGoldin\Server\Calculator.Model\obj\Debug\Calculator.Model.csproj.CoreCompileInputs.cache
 C:\WorkspaceGoldin\Server\Calculator.Model\obj\Debug\Calculator.Model.dll
 C:\WorkspaceGoldin\Server\Calculator.Model\obj\Debug\Calculator.Model.pdb
+C:\WorkspaceGoldin\Server\Calculator.Model\obj\Debug\Calculator.Model.csprojAssemblyReference.cache
