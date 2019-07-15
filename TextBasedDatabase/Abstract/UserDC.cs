@@ -38,7 +38,7 @@ namespace TextBasedDatabase.Abstract
             {
                 var DataFilePath = new DataFile().filePath;
                 bool bValid = false;
-                string msg = string.Empty;
+                string msg = string.Empty,rstValue = string.Empty;
                 if (File.Exists(DataFilePath))
                 {
                     var lstContent = new List<string>(File.ReadAllLines(DataFilePath, Encoding.UTF8));
@@ -54,7 +54,8 @@ namespace TextBasedDatabase.Abstract
                             if ((Password.Equals(dbPassword)) && (Username.Equals(dbUsername)))
                             {
                                 bValid = true;
-                                msg = dbName;
+                                rstValue = dbName;
+                                msg = "Login success";
                             }
                             else
                             {
@@ -68,8 +69,8 @@ namespace TextBasedDatabase.Abstract
                         return new Results
                         {
                             Valid = bValid,
-                            Message = "Login success",
-                            Value = msg
+                            Message = msg,
+                            Value = rstValue
                         };
                     }
                     else
